@@ -4,8 +4,6 @@
 This project is a simple yet engaging 2D RPG game developed using Java and Java Libraries. It includes a level progression system, dynamic events, a health point tracking system, and basic AI for enemy interactions.
 
 ## Features
-
--   **Experience & Level System**: Players can earn experience and level up.
     
 -   **Dynamic Events**: Random in-game events enhance gameplay.
     
